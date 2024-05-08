@@ -2,7 +2,7 @@
 
 In my spare time, I am trying to do some physical activity with my wife & 2 sons whether it's hiking, biking, zoo, museum, etc. I enjoy messing around with new software; after a few attempts I recently determined my preffered AI companions for offline chat, coding & stable diffusion. When i feel like gaming on my laptop i play Tribes 2 & Rivals, Guild Wars 2 & Runescape. Im also an ex mechanic and love auto performance... my last accomplishment before selling it all for the nomadic life was a Hydrogen On-Demand injection system into my MK7 Golf 1.8t with a light E85 tune.
 
-Check out some other software...
+Check out some **other software**...
 - 💡 that [I'm interested in trying](https://github.com/stars/JonVojtush/lists/interests).
 - ✅ that [I'm using](https://github.com/stars/JonVojtush/lists/using).
 - 🗂️ that [I've tried & may revisit](https://github.com/stars/JonVojtush/lists/archives).
