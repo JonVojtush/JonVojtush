@@ -11,7 +11,7 @@ Check out some other software...
 ## 🛠️ Resources In Hand
 
 [![My Skills](https://skillicons.dev/icons?i=go,postgres,bash,html,css,js,wasm,bootstrap,)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=cloudflare,docker,gcp,github,git,vscode&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cloudflare,docker,gcp,github,git,vscode)](https://skillicons.dev)
 
 ## 🧰 In My Toolbox
 
