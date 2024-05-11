@@ -9,7 +9,7 @@
 
 ## Bio
 
-When I'm not working developing ETL software in healthcare, my wife & 2 sons are busy with some activity like hiking, biking, zoo, museum, etc. I enjoy messing around with new software; after trying a few different tools I recently determined my preffered AI companions for offline chat, coding & stable diffusion. When i feel like gaming on my laptop i play Tribes 2 & Rivals, Guild Wars 2 & Runescape. Im also an ex mechanic and love auto performance... my last accomplishment before selling it all for the nomadic life was a Hydrogen On-Demand injection system into my MK7 Golf 1.8t with a light E85 tune.
+When I'm not developing ETL software for my employer in healthcare; my wife, 2 sons & I are busy finding some activity In the area like hiking, biking, zoo, museum, etc. I enjoy messing around with new software; after trying a few different tools I recently determined my preffered AI companions for offline chat, coding & stable diffusion. When i feel like gaming on my laptop i play Tribes 2 & Rivals, Guild Wars 2 & Runescape. Im also an ex mechanic and love auto performance... my last accomplishment before selling it all for the nomadic life was a Hydrogen On-Demand injection system into my MK7 Golf 1.8t with a light E85 tune.
 
 Check out some **other software**...
 - 💡 that [I'm interested in trying](https://github.com/stars/JonVojtush/lists/interests).
