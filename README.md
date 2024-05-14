@@ -18,7 +18,7 @@ Check out some **other software**...
 - 🧾 in [curated lists](https://github.com/stars/JonVojtush/lists/curated-lists).
 
 <picture>
-  <img src="/github-metrics.svg" alt="Metrics">
+  <img src="/github-metrics.svg" alt="Metrics" width="100%">
 </picture>
 
 <!-- Documentation: https://github.com/lowlighter/metrics/blob/master/README.md#-documentation -->
