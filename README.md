@@ -17,8 +17,10 @@ Check out some **other software**...
 - 🗂️ that [I've tried & may revisit](https://github.com/stars/JonVojtush/lists/archives).
 - 🧾 in [curated lists](https://github.com/stars/JonVojtush/lists/curated-lists).
 
-## GitHub Stats
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
 
-![JonVojtush's Stats](https://github-readme-stats.vercel.app/api?username=JonVojtush&show_icons=true&hide_border=true&count_private=true&hide_title=true&theme=transparent&rank_icon=percentile&include_all_commits&hide=stars,contribs&text_color=FFF&bg_color=22211F&ring_color=03A062&icon_color=03A062)
-
-<!-- https://github.com/tandpfun/skill-icons?tab=readme-ov-file#example -->
+<!-- Documentation: https://github.com/lowlighter/metrics/blob/master/README.md#-documentation -->
+<!-- Core Plugin Docs: https://github.com/lowlighter/metrics/blob/master/source/plugins/core/README.md -->
+<!-- Playground: https://metrics.lecoq.io -->
