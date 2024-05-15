@@ -1,7 +1,7 @@
 ## 🛠️ Resources In Hand
 
-[![My Skills](https://skillicons.dev/icons?i=go,postgres,bash,html,css,js,wasm,bootstrap,)](https://skillicons.dev)<br>
-[![My Skills](https://skillicons.dev/icons?i=cloudflare,docker,gcp,git,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,postgres,bash,html,css,js,wasm)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,git,cloudflare,docker,gcp,vscode)](https://skillicons.dev)
 
 ## 🧰 In My Toolbox
 
