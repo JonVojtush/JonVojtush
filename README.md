@@ -13,14 +13,16 @@ When I'm not developing ETL software for my employer in healthcare; my wife, 2 s
 
 Check out some **other software**...
 - 💡 that [I'm interested in trying](https://github.com/stars/JonVojtush/lists/interests).
-- ✅ that [I'm using & recommend](https://github.com/stars/JonVojtush/lists/using).
+- ✅ that [I'm using](https://github.com/stars/JonVojtush/lists/using).
 - 🗂️ that [I've tried & may revisit](https://github.com/stars/JonVojtush/lists/archives).
 - 🧾 in [curated lists](https://github.com/stars/JonVojtush/lists/curated-lists).
 
-<picture>
+<!--<picture>
   <img src="/github-metrics.svg" alt="Metrics" width="66.66%">
-</picture>
-
+</picture>-->
 <!-- Documentation: https://github.com/lowlighter/metrics/blob/master/README.md#-documentation -->
 <!-- Core Plugin Docs: https://github.com/lowlighter/metrics/blob/master/source/plugins/core/README.md -->
-<!-- Playground: https://metrics.lecoq.io -->
+<!-- Playground: https://metrics.lecoq.io
+
+
+<!--  -->
