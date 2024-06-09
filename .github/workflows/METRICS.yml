@@ -17,10 +17,6 @@ jobs:
           # Your GitHub token
           # The following scopes are required:
           #  - public_access (default scope)
-          #  - read:user
-          #  - read:org
-          #  - public_repo
-          #  - read:project
           # The following additional scopes may be required:
           #  - read:org      (for organization related metrics)
           #  - read:user     (for user related data)
@@ -32,10 +28,8 @@ jobs:
           user: JonVojtush
           template: classic
           base: ""
-          commits_authoring: 
           config_octicon: yes
           config_timezone: America/New_York
-          config_twemoji: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_languages: yes
@@ -44,36 +38,15 @@ jobs:
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
           plugin_languages_details: percentage
-          plugin_languages_limit: 10
+          plugin_languages_limit: 8
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
+          plugin_languages_skipped: Resources, JonVojtush
           plugin_languages_threshold: 0%
           plugin_lines: yes
-          plugin_lines_history_limit: 10
-          plugin_lines_repositories_limit: 10
-          plugin_lines_sections: repositories
+          plugin_lines_history_limit: 25
+          plugin_lines_repositories_limit: 1
+          plugin_lines_sections: base
           plugin_lines_skipped: JonVojtush, Resources
-          plugin_projects: yes
-          plugin_projects_descriptions: yes
-          plugin_projects_limit: 3
-          plugin_sponsors: yes
-          plugin_sponsors_past: yes
-          plugin_sponsors_sections: goal, list, about
-          plugin_sponsors_size: 24
-          plugin_sponsors_title: Support Me ✌🏽
-          plugin_starlists: yes
-          plugin_starlists_limit: 4
-          plugin_starlists_limit_languages: 8
-          plugin_starlists_limit_repositories: 0
-          plugin_steam: yes
-          plugin_steam_achievements_limit: 0
-          plugin_steam_games_limit: 3
-          plugin_steam_playtime_threshold: 0
-          plugin_steam_recent_games_limit: 0
-          plugin_steam_sections: player, most-played
-          plugin_steam_user: jvojtushjr
-          repositories_affiliations: 
-          repositories_batch: 
-          users_ignored: 
