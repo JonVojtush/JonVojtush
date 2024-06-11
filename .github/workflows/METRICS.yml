@@ -17,8 +17,10 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
+
           # The following scopes are required:
           #  - public_access (default scope)
+
           # The following additional scopes may be required:
           #  - read:org      (for organization related metrics)
           #  - read:user     (for user related data)
@@ -47,6 +49,7 @@ jobs:
           plugin_languages_skipped: JonVojtush, Resources
           plugin_languages_threshold: 0%
           plugin_lines: yes
+          plugin_lines_delay: 30
           plugin_lines_history_limit: 10
           plugin_lines_repositories_limit: 10
           plugin_lines_sections: repositories
