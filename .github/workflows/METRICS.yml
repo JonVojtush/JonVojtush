@@ -27,8 +27,7 @@ jobs:
           # Options
           user: JonVojtush
           template: classic
-          base: community, repositories, metadata
-          config_octicon: yes
+          base: ""
           config_timezone: America/New_York
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
@@ -40,13 +39,13 @@ jobs:
           plugin_languages_details: percentage
           plugin_languages_limit: 10
           plugin_languages_recent_categories: markup, programming
-          plugin_languages_recent_days: 14
+          plugin_languages_recent_days: 365
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
-          plugin_languages_skipped: Resources
+          plugin_languages_skipped: JonVojtush, Resources
           plugin_languages_threshold: 0%
           plugin_lines: yes
           plugin_lines_history_limit: 10
           plugin_lines_repositories_limit: 10
-          plugin_lines_sections: Repositories, JonVojtush
-          plugin_lines_skipped: Resources
+          plugin_lines_sections: repositories
+          plugin_lines_skipped: JonVojtush, Resources
