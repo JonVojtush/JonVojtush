@@ -1,11 +1,12 @@
 ## 🛠️ Resources In Hand
 
-[![My Skills](https://skillicons.dev/icons?i=go,postgres,bash,html,css,js,wasm)](https://skillicons.dev)<br>
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,git,cloudflare,gcp,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,postgres,bash,html,css,js)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,wasm,git,cloudflare,gcp,vscode)](https://skillicons.dev)
 
 ## 🧰 In My Toolbox
 
-[![My Skills](https://skillicons.dev/icons?i=wordpress,jquery,python,sass,django,mysql,docker,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=wordpress,jquery,python,sass,mysql,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,php)](https://skillicons.dev)
 
 ## Bio
 
