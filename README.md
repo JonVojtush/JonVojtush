@@ -5,7 +5,7 @@
 
 ## 🧰 In My Toolbox
 
-[![My Skills](https://skillicons.dev/icons?i=wordpress,jquery,python,sass,mysql,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=wordpress,jquery,python,sass,mysql,docker)](https://skillicons.dev)<br>
 [![My Skills](https://skillicons.dev/icons?i=django,php)](https://skillicons.dev)
 
 ## Bio
