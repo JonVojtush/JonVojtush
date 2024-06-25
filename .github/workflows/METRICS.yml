@@ -45,5 +45,4 @@ jobs:
           plugin_lines_history_limit: 10
           plugin_lines_repositories_limit: 10
           plugin_lines_sections: base, repositories
-          plugin_lines_skipped: JonVojtush
-            Resources
+          plugin_lines_skipped: JonVojtush, Resources
