@@ -29,7 +29,7 @@ jobs:
           
           # Options
           user: JonVojtush
-          base: "repositories"
+          base: ""
           config_timezone: America/New_York
           plugin_languages: yes
           plugin_languages_details: percentage
