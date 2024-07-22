@@ -1,3 +1,5 @@
+![Metrics](/github-metrics.svg)
+
 ## 🛠️ Resources In Hand
 
 [![My Skills](https://skillicons.dev/icons?i=go,postgres,bash,html,css,js)](https://skillicons.dev)<br>
@@ -14,7 +16,5 @@
 - 💡 that [I'm interested in trying](https://github.com/stars/JonVojtush/lists/interested-in).
 - 🗂️ that [I've tried & may revisit](https://github.com/stars/JonVojtush/lists/archives).
 - 🧾 in [curated lists & cheatsheets](https://github.com/stars/JonVojtush/lists/lists-cheat-sheets).
-
-![Metrics](/github-metrics.svg)
 
 <!-- Playground: https://metrics.lecoq.io -->
