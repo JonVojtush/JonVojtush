@@ -1,3 +1,6 @@
+<!-- TODO: https://docs.github.com/en/actions/monitoring-and-troubleshooting-workflows/monitoring-workflows/adding-a-workflow-status-badge -->
+
+<!-- Playground: https://metrics.lecoq.io -->
 ![Metrics](/github-metrics.svg)
 
 ## 🛠️ Resources In Hand
@@ -16,5 +19,3 @@
 - 💡 that [I'm interested in trying](https://github.com/stars/JonVojtush/lists/interested-in).
 - 🗂️ that [I've tried & may revisit](https://github.com/stars/JonVojtush/lists/archives).
 - 🧾 in [curated lists & cheatsheets](https://github.com/stars/JonVojtush/lists/lists-cheat-sheets).
-
-<!-- Playground: https://metrics.lecoq.io -->
