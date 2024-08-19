@@ -1,21 +1,21 @@
-<!-- TODO: https://docs.github.com/en/actions/monitoring-and-troubleshooting-workflows/monitoring-workflows/adding-a-workflow-status-badge -->
-
 ## 🛠️ Resources In Hand
 
-[![My Skills](https://skillicons.dev/icons?i=go,postgres,bash,html,css,js)](https://skillicons.dev)<br>
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,wasm,git,cloudflare,gcp,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,postgres,bash,html,css,js,wasm,bootstrap)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=git,cloudflare,gcp,vscode)](https://skillicons.dev)
 <!-- Playground: https://metrics.lecoq.io -->
+<!-- TODO: https://docs.github.com/en/actions/monitoring-and-troubleshooting-workflows/monitoring-workflows/adding-a-workflow-status-badge -->
 ![Metrics](/github-metrics.svg)<br />
 <i>* JonVojtush's repositories only, no organizations included.</i>
 
+<br />
+
 ## 🧰 In My Toolbox
 
-[![My Skills](https://skillicons.dev/icons?i=wordpress,jquery,python,sass,mysql,docker)](https://skillicons.dev)<br>
-[![My Skills](https://skillicons.dev/icons?i=django,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=wordpress,jquery,python,sass,mysql,docker,php,django)](https://skillicons.dev)<br>
 
-<hr style="height: 1px !important; border: none; background-color: black;" />
+<br />
 
-**Check out some software**...
+## Check out some software:
 - ✅ [programs](https://github.com/stars/JonVojtush/lists/programs-i-use) that I'm using.
 - ✅ [resources](https://github.com/stars/JonVojtush/lists/software-extensions-i-use) that I'm using.
 - 💡 that [I'm interested in trying](https://github.com/stars/JonVojtush/lists/interested-in).
