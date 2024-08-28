@@ -1,8 +1,7 @@
 <!-- Playground: https://metrics.lecoq.io -->
 <!-- TODO: https://docs.github.com/en/actions/monitoring-and-troubleshooting-workflows/monitoring-workflows/adding-a-workflow-status-badge -->
 ![Metrics](/github-metrics.svg)<br />
-
-<i>**^** Stats above don't include contributions to organizations (employers).</i>
+<i><b>^</b> Stats above don't include contributions to organizations (employers).</i>
 
 <hr />
 
