@@ -1,9 +1,7 @@
 <!-- Playground: https://metrics.lecoq.io -->
 <!-- TODO: https://docs.github.com/en/actions/monitoring-and-troubleshooting-workflows/monitoring-workflows/adding-a-workflow-status-badge -->
-### Top Languages
+### Top Languages (Personal Repos)
 ![Metrics](/github-metrics.svg)
-
-∆ <i>Personal Repositories</i>
 
 <hr />
 
