@@ -2,15 +2,15 @@
 <!-- TODO: https://docs.github.com/en/actions/monitoring-and-troubleshooting-workflows/monitoring-workflows/adding-a-workflow-status-badge -->
 ### Top Languages
 ![Metrics](/github-metrics.svg)
+
 ∆ <i>Personal Repositories</i>
 
 <hr />
 
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=go,postgres,bash,html,css,js,wasm,bootstrap)](https://skillicons.dev)<br>
-[![My Skills](https://skillicons.dev/icons?i=git,cloudflare,vscode)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=gcp,wordpress,jquery,python,sass,mysql,docker,php)](https://skillicons.dev)<br>
-[![My Skills](https://skillicons.dev/icons?i=django)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,cloudflare,vscode,wordpress,jquery,python,sass,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=gcp,docker,django,php)](https://skillicons.dev)
 
 <hr />
 
