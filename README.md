@@ -5,9 +5,7 @@
 
 ### Familiar With
 
-[![My Skills](https://skillicons.dev/icons?i=go,postgres,bash,html,css,js,wasm,bootstrap)](https://skillicons.dev)<br>
-[![My Skills](https://skillicons.dev/icons?i=git,cloudflare,vscode,wordpress,jquery,python,sass,mysql)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=gcp,docker,django,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,postgres,bash,html,css,js,wasm,bootstrap,git,cloudflare,vscode,wordpress,jquery,python,sass,mysql,gcp,docker,django,php)]()]
 
 ### Check out some software...
 
