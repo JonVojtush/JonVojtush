@@ -1,11 +1,9 @@
 <!-- Playground: https://metrics.lecoq.io -->
 <!-- TODO: https://docs.github.com/en/actions/monitoring-and-troubleshooting-workflows/monitoring-workflows/adding-a-workflow-status-badge -->
-### Top Languages (Personal Repositories)
 ![Metrics](/github-metrics.svg)
+<div style="text-align: center;>^personal repositories only^</div>
 
-### Familiar With
-
-[![My Skills](https://skillicons.dev/icons?i=go,postgres,bash,html,css,js,wasm,bootstrap,git,cloudflare,vscode,wordpress,jquery,python,sass,mysql,gcp,docker,django,php)]
+[![My Skills](https://skillicons.dev/icons?i=go,postgres,bash,html,css,js,wasm,bootstrap,git,cloudflare,vscode,wordpress,jquery,python,sass,mysql,gcp,docker,django,php)](https://github.com/Jon Vojtush)
 
 ### Check out some software...
 
