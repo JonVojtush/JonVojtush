@@ -11,6 +11,10 @@
 ### Familiar
 [![My Skills](https://skillicons.dev/icons?i=md,js,jquery,python,sass,wasm,bootstrap,regex,docker,gcp,php,debian&perline=8)](https://github.com/JonVojtush)
 
+## Profiles
+* [HackerRank](https://hackerrank.com/profile/jonathanvojtush)
+* [Codewars](https://codewars.com/users/JonathanVojtush)
+
 <!--
   ### Future
   [![My Skills](https://skillicons.dev/icons?i=git,ts,react,azure,nextjs,graphql,nodejs,githubactions,kali,postman,pytorch,tensorflow,sqlite,nginx&perline=9)](https://github.com/JonVojtush)
