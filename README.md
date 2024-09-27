@@ -1,7 +1,7 @@
 <!-- TODO: https://docs.github.com/en/actions/monitoring-and-troubleshooting-workflows/monitoring-workflows/adding-a-workflow-status-badge -->
 ## Top Languages
-<sup>personal repositories only</sup>  
-![Metrics](/github-metrics.svg)
+<sup>Personal Repositories Only</sup>  
+![Metrics](/github-metrics.svg)  
 <!-- Playground: https://metrics.lecoq.io -->
 
 ## Skills
