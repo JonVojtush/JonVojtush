@@ -1,29 +1,26 @@
 <!-- TODO: https://docs.github.com/en/actions/monitoring-and-troubleshooting-workflows/monitoring-workflows/adding-a-workflow-status-badge -->
+### Top Languages <sub>(Personal Repositories Only)</sub>
 ![Metrics](/github-metrics.svg)  
-<sup>Personal Repositories Only</sup>
 <!-- Playground: https://metrics.lecoq.io -->
 
 ---
 
 ### Proficient Skills
-[![My Skills](https://skillicons.dev/icons?i=go,postgres,bash,html,css,wordpress,vscode,cloudflare&perline=8)](https://github.com/JonVojtush)
+[![My Skills](https://skillicons.dev/icons?i=go,postgres,html,css,bash,wordpress,vscode,cloudflare,github,debian,raspberrypi&perline=8)](https://github.com/JonVojtush)
 
-### Familiar Skills
-[![My Skills](https://skillicons.dev/icons?i=md,js,jquery,python,sass,wasm,bootstrap,regex,docker,gcp,php,debian&perline=8)](https://github.com/JonVojtush)
+### Competent Skills
+[![My Skills](https://skillicons.dev/icons?i=js,jquery,md,bootstrap,wasm,python,regex,mysql,sass,php,docker,gcp&perline=8)](https://github.com/JonVojtush)
+
+<!--
+  ### Future Skills
+  [![My Skills](https://skillicons.dev/icons?i=git,ts,react,azure,nextjs,graphql,nodejs,githubactions,kali,postman,pytorch,tensorflow,sqlite,nginx&perline=9)](https://github.com/JonVojtush)
+-->
 
 ---
 
-### Profiles
-* [HackerRank](https://hackerrank.com/profile/jonathanvojtush)
-* [Codewars](https://codewars.com/users/JonathanVojtush)
-
-<!--
-  ### Future
-  [![My Skills](https://skillicons.dev/icons?i=git,ts,react,azure,nextjs,graphql,nodejs,githubactions,kali,postman,pytorch,tensorflow,sqlite,nginx&perline=9)](https://github.com/JonVojtush)
-
-  ### Familiar (Archived)
-  [![My Skills](https://skillicons.dev/icons?i=django,mysql,github,raspberrypi&perline=8)](https://github.com/JonVojtush)
--->
+### Training Profiles
+* __[HackerRank](https://hackerrank.com/profile/jonathanvojtush)__
+* __[Codewars](https://codewars.com/users/JonathanVojtush)__
 
 <!--
   ### Check out some software...
