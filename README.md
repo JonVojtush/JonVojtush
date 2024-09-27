@@ -1,17 +1,17 @@
 <!-- TODO: https://docs.github.com/en/actions/monitoring-and-troubleshooting-workflows/monitoring-workflows/adding-a-workflow-status-badge -->
-## Top Languages
-<sup>Personal Repositories Only</sup>  
 ![Metrics](/github-metrics.svg)  
+<sup>Personal Repositories Only</sup>
 <!-- Playground: https://metrics.lecoq.io -->
 
-## Skills
-### Proficient
+### Proficient Skills
 [![My Skills](https://skillicons.dev/icons?i=go,postgres,bash,html,css,wordpress,vscode,cloudflare&perline=8)](https://github.com/JonVojtush)
 
-### Familiar
+### Familiar Skills
 [![My Skills](https://skillicons.dev/icons?i=md,js,jquery,python,sass,wasm,bootstrap,regex,docker,gcp,php,debian&perline=8)](https://github.com/JonVojtush)
 
-## Profiles
+---
+
+### Profiles
 * [HackerRank](https://hackerrank.com/profile/jonathanvojtush)
 * [Codewars](https://codewars.com/users/JonathanVojtush)
 
