@@ -1,7 +1,7 @@
-<!-- Playground: https://metrics.lecoq.io -->
 <!-- TODO: https://docs.github.com/en/actions/monitoring-and-troubleshooting-workflows/monitoring-workflows/adding-a-workflow-status-badge -->
 ## Top Languages  <sub>(personal repositories only)</sub>  
-![Metrics](/github-metrics.svg)  
+![Metrics](/github-metrics.svg)
+<!-- Playground: https://metrics.lecoq.io -->
 
 ## Skills
 ### Proficient
@@ -18,11 +18,11 @@
   [![My Skills](https://skillicons.dev/icons?i=django,mysql,github,raspberrypi&perline=8)](https://github.com/JonVojtush)
 -->
 
----
-
-### Check out some software...
-- ✅ [programs](https://github.com/stars/JonVojtush/lists/programs-i-use) that I'm using.
-- ✅ [resources](https://github.com/stars/JonVojtush/lists/software-extensions-i-use) that I'm using.
-- 💡 [I'm interested in trying](https://github.com/stars/JonVojtush/lists/interested-in).
-- 🗂️ [I've tried & may revisit](https://github.com/stars/JonVojtush/lists/archives).
-- 🧾 in [curated lists & cheatsheets](https://github.com/stars/JonVojtush/lists/lists-cheat-sheets).
+<!--
+  ### Check out some software...
+  - ✅ [programs](https://github.com/stars/JonVojtush/lists/programs-i-use) that I'm using.
+  - ✅ [resources](https://github.com/stars/JonVojtush/lists/software-extensions-i-use) that I'm using.
+  - 💡 [I'm interested in trying](https://github.com/stars/JonVojtush/lists/interested-in).
+  - 🗂️ [I've tried & may revisit](https://github.com/stars/JonVojtush/lists/archives).
+  - 🧾 in [curated lists & cheatsheets](https://github.com/stars/JonVojtush/lists/lists-cheat-sheets).
+-->
