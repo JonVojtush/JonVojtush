@@ -1,27 +1,22 @@
 <!-- Playground: https://metrics.lecoq.io -->
 <!-- TODO: https://docs.github.com/en/actions/monitoring-and-troubleshooting-workflows/monitoring-workflows/adding-a-workflow-status-badge -->
-## Languages
-
-![Metrics](/github-metrics.svg)
-<div style="text-align: center;>^personal repositories only^</div>
+## Top Languages  <sub>(personal repositories only)</sub>  
+![Metrics](/github-metrics.svg)  
 
 ## Skills
-
 ### Proficient
-
-[![My Skills](https://skillicons.dev/icons?i=go,postgres,bash,html,css,cloudflare,vscode,wordpress,debian,github,raspberrypi&perline=9)](https://github.com/JonVojtush)
-
-### Improving
-
-[![My Skills](https://skillicons.dev/icons?i=ts,wasm,bootstrap,git,md,regex&perline=9)](https://github.com/JonVojtush)
+[![My Skills](https://skillicons.dev/icons?i=go,postgres,bash,html,css,wordpress,vscode,cloudflare&perline=8)](https://github.com/JonVojtush)
 
 ### Familiar
+[![My Skills](https://skillicons.dev/icons?i=md,js,jquery,python,sass,wasm,bootstrap,regex,docker,gcp,php,debian&perline=8)](https://github.com/JonVojtush)
 
-[![My Skills](https://skillicons.dev/icons?i=js,jquery,python,sass,mysql,docker,django,gcp,php,gitlab,nginx&perline=9)](https://github.com/JonVojtush)
+<!--
+  ### Future
+  [![My Skills](https://skillicons.dev/icons?i=git,ts,react,azure,nextjs,graphql,nodejs,githubactions,kali,postman,pytorch,tensorflow,sqlite,nginx&perline=9)](https://github.com/JonVojtush)
 
-### Planned
-
-[![My Skills](https://skillicons.dev/icons?i=react,azure,nextjs,graphql,nodejs,githubactions,md,kali,postman,pytorch,tensorflow,regex,sqlite&perline=9)](https://github.com/JonVojtush)
+  ### Familiar (Archived)
+  [![My Skills](https://skillicons.dev/icons?i=django,mysql,github,raspberrypi&perline=8)](https://github.com/JonVojtush)
+-->
 
 ---
 
