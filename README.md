@@ -3,10 +3,22 @@
 ![Metrics](/github-metrics.svg)
 <div style="text-align: center;>^personal repositories only^</div>
 
-[![My Skills](https://skillicons.dev/icons?i=go,postgres,bash,html,css,js,wasm,bootstrap,git,cloudflare,vscode,wordpress,jquery,python,sass,mysql,gcp,docker,django,php&perline=9)](https://github.com/JonVojtush)
+### Proficient Skills
+[![My Skills](https://skillicons.dev/icons?i=go,postgres,bash,html,css,cloudflare,vscode,wordpress,debian,github,raspberrypi&perline=9)](https://github.com/JonVojtush)
+
+### Improving Skills
+[![My Skills](https://skillicons.dev/icons?i=ts,wasm,bootstrap,git,md,regex&perline=9)](https://github.com/JonVojtush)
+
+### Familiar Skills
+[![My Skills](https://skillicons.dev/icons?i=js,jquery,python,sass,mysql,docker,django,gcp,php,gitlab,nginx&perline=9)](https://github.com/JonVojtush)
+
+### Future Skills
+[![My Skills](https://skillicons.dev/icons?i=react,azure,nextjs,graphql,nodejs,githubactions,md,kali,postman,pytorch,tensorflow,regex,sqlite&perline=9)](https://github.com/JonVojtush)
+
+### Familiar Skills
+[![My Skills](https://skillicons.dev/icons?i=js,jquery,python,sass,mysql,docker,django,gcp,php,gitlab,nginx&perline=9)](https://github.com/JonVojtush)
 
 ### Check out some software...
-
 - ✅ [programs](https://github.com/stars/JonVojtush/lists/programs-i-use) that I'm using.
 - ✅ [resources](https://github.com/stars/JonVojtush/lists/software-extensions-i-use) that I'm using.
 - 💡 [I'm interested in trying](https://github.com/stars/JonVojtush/lists/interested-in).
