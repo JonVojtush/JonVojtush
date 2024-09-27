@@ -3,7 +3,7 @@
 ![Metrics](/github-metrics.svg)
 <div style="text-align: center;>^personal repositories only^</div>
 
-[![My Skills](https://skillicons.dev/icons?i=go,postgres,bash,html,css,js,wasm,bootstrap,git,cloudflare,vscode,wordpress,jquery,python,sass,mysql,gcp,docker,django,php&perline=9)
+[![My Skills](https://skillicons.dev/icons?i=go,postgres,bash,html,css,js,wasm,bootstrap,git,cloudflare,vscode,wordpress,jquery,python,sass,mysql,gcp,docker,django,php&perline=9)(https://github.com/JonVojtush)
 
 ### Check out some software...
 
