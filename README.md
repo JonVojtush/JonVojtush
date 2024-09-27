@@ -3,6 +3,8 @@
 <sup>Personal Repositories Only</sup>
 <!-- Playground: https://metrics.lecoq.io -->
 
+---
+
 ### Proficient Skills
 [![My Skills](https://skillicons.dev/icons?i=go,postgres,bash,html,css,wordpress,vscode,cloudflare&perline=8)](https://github.com/JonVojtush)
 
