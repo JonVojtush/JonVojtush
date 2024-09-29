@@ -8,7 +8,7 @@
 ### Proficient Skills
 [![My Skills](https://skillicons.dev/icons?i=go,postgres,html,css,bash,wordpress,vscode,cloudflare,github,debian,raspberrypi&perline=8)](https://github.com/JonVojtush)
 
-### Competent Skills
+### Familiar Skills
 [![My Skills](https://skillicons.dev/icons?i=js,jquery,md,bootstrap,wasm,python,regex,mysql,sass,php,docker,gcp&perline=8)](https://github.com/JonVojtush)
 
 <!--
