@@ -1,10 +1,7 @@
-<!-- TODO: https://docs.github.com/en/actions/monitoring-and-troubleshooting-workflows/monitoring-workflows/adding-a-workflow-status-badge -->
-## Most Used Languages <sub>(Personal Repositories Only)</sub>
-![Metrics](/github-metrics.svg)  
-<!-- Playground: https://metrics.lecoq.io -->
-
 ## Top Skills
-[![My Skills](https://skillicons.dev/icons?i=go,postgres,bash,html,css,js,wordpress,cloudflare&perline=8)](https://github.com/JonVojtush)
+[![My Skills](https://skillicons.dev/icons?i=go,postgres,bash,html,css,js,wordpress,cloudflare&perline=8)](https://github.com/JonVojtush)  
+![Metrics](/github-metrics.svg)  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <sup>* Personal Repositories Only</sup>
 
 ## Training Profiles
 * __[HackerRank](https://hackerrank.com/profile/jonathanvojtush)__
@@ -17,4 +14,8 @@
   - 🗂️ [I've tried & may revisit](https://github.com/stars/JonVojtush/lists/archives).
   - 🧾 in [curated lists & cheatsheets](https://github.com/stars/JonVojtush/lists/lists-cheat-sheets).
 
-<!-- git,ts,react,azure,nextjs,graphql,nodejs,githubactions,kali,postman,pytorch,tensorflow,sqlite,nginx,jquery,md,bootstrap,wasm,python,regex,mysql,sass,php,docker,gcp,github,debian,raspberrypi,vscode -->
+<!-- 
+  TODO: https://docs.github.com/en/actions/monitoring-and-troubleshooting-workflows/monitoring-workflows/adding-a-workflow-status-badge
+  * Playground: https://metrics.lecoq.io
+  git,ts,react,azure,nextjs,graphql,nodejs,githubactions,kali,postman,pytorch,tensorflow,sqlite,nginx,jquery,md,bootstrap,wasm,python,regex,mysql,sass,php,docker,gcp,github,debian,raspberrypi,vscode
+-->
