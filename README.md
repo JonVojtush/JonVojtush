@@ -1,7 +1,7 @@
 ## Top Skills
 [![My Skills](https://skillicons.dev/icons?i=go,postgres,bash,html,css,js,wordpress,cloudflare&perline=8)](https://github.com/JonVojtush)  
 ![Metrics](/github-metrics.svg)  
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <sup>* Personal Repositories Only</sup>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <sup>Personal Repositories Only</sup>
 
 ## Training Profiles
 * __[HackerRank](https://hackerrank.com/profile/jonathanvojtush)__
