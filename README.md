@@ -1,23 +1,24 @@
-## Top Skills
-[![My Skills](https://skillicons.dev/icons?i=go,postgres,bash,html,css,js,wordpress,cloudflare&perline=8)](https://github.com/JonVojtush)  
-![Metrics](/github-metrics.svg)  
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <sup>Personal Repositories Only</sup>
+Platforms | Frameworks | Tools
+:-: | :-: | :-:
+[![My Skills](https://skillicons.dev/icons?i=linux,windows,raspberrypi)](https://github.com/JonVojtush) <br> [![My Skills](https://skillicons.dev/icons?i=gcp)](https://github.com/JonVojtush) <!-- azure --> | [![My Skills](https://skillicons.dev/icons?i=wordpress,bootstrap)](https://github.com/JonVojtush) <!-- react nextjs graphql jquery pytorch tensorflow --> | [![My Skills](https://skillicons.dev/icons?i=cloudflare,githubactions,vscode)](https://github.com/JonVojtush) <!-- git nodejs postman docker nginx -->
 
-## Training Profiles
+![Metrics](/github-metrics.svg)  
+[![My Skills](https://skillicons.dev/icons?i=postgres&perline=9)](https://github.com/JonVojtush) <!-- ts less regex mysql php sqlite -->
+
+<!-- ## Training Profiles
 * __[HackerRank](https://hackerrank.com/profile/jonathanvojtush)__
-* __[Codewars](https://codewars.com/users/JonathanVojtush)__
+* __[Codewars](https://codewars.com/users/JonathanVojtush)__ -->
 
 ## Repository Lists
-  - ✅ [programs](https://github.com/stars/JonVojtush/lists/programs-i-use) that I use & recommend.
-  - ✅ [resources](https://github.com/stars/JonVojtush/lists/software-extensions-i-use) that I use & recommend.
-  - 💡 [I'm interested in trying](https://github.com/stars/JonVojtush/lists/interested-in).
-  - 🗂️ [I've tried & may revisit](https://github.com/stars/JonVojtush/lists/archives).
-  - 🧾 in [curated lists & cheatsheets](https://github.com/stars/JonVojtush/lists/lists-cheat-sheets).
+  - ✅ [Programs](https://github.com/stars/JonVojtush/lists/programs-i-use) that I use & recommend
+  - ✅ [Resources](https://github.com/stars/JonVojtush/lists/software-extensions-i-use) that I use & recommend
+  - 💡 [I'm interested in trying](https://github.com/stars/JonVojtush/lists/interested-in)
+  - 🗂️ [I've tried & may revisit](https://github.com/stars/JonVojtush/lists/archives)
+  - 🧾 [Curated lists & cheatsheets](https://github.com/stars/JonVojtush/lists/lists-cheat-sheets)
 
 <!-- 
   TODO: https://docs.github.com/en/actions/monitoring-and-troubleshooting-workflows/monitoring-workflows/adding-a-workflow-status-badge
-  TODO: Allow markdown and other languages + repos
-  TODO: Add lines of code
-  * Playground: https://metrics.lecoq.io
-  git,ts,react,azure,nextjs,graphql,nodejs,githubactions,kali,postman,pytorch,tensorflow,sqlite,nginx,jquery,md,bootstrap,wasm,python,regex,mysql,sass,php,docker,gcp,github,debian,raspberrypi,vscode
+  TODO: Metrics > Languages > Un-limit Most-Used-Language types
+  TODO: Metrics > Add Lines-of-Code
+  Metrics > Playground > https://metrics.lecoq.io
 -->
