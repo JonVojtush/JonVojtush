@@ -1,9 +1,8 @@
+![Metrics](/github-metrics.svg)  
+[![My Skills](https://skillicons.dev/icons?i=postgres&perline=9)](https://github.com/JonVojtush) <!-- ts less regex mysql php sqlite -->
 Platforms | Frameworks | Tools
 :-: | :-: | :-:
 [![My Skills](https://skillicons.dev/icons?i=linux,windows,raspberrypi)](https://github.com/JonVojtush) <br> [![My Skills](https://skillicons.dev/icons?i=gcp)](https://github.com/JonVojtush) <!-- azure --> | [![My Skills](https://skillicons.dev/icons?i=wordpress,bootstrap)](https://github.com/JonVojtush) <!-- react nextjs graphql jquery pytorch tensorflow --> | [![My Skills](https://skillicons.dev/icons?i=cloudflare,githubactions,vscode)](https://github.com/JonVojtush) <!-- git nodejs postman docker nginx -->
-
-![Metrics](/github-metrics.svg)  
-[![My Skills](https://skillicons.dev/icons?i=postgres&perline=9)](https://github.com/JonVojtush) <!-- ts less regex mysql php sqlite -->
 
 <!-- ## Training Profiles
 * __[HackerRank](https://hackerrank.com/profile/jonathanvojtush)__
