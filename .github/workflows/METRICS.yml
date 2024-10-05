@@ -15,26 +15,22 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
-
-          # The following scopes are required:
-              # - public_access (default scope)
-          # The following additional scopes may be required:
-              # - read:org      (for organization related metrics)
-              # - read:user     (for user related data)
-              # - read:packages (for some packages related data)
-              # - repo          (optional, if you want to include private repositories)
-          
-          # Options
+            # The following scopes are required:
+                # - public_access (default scope)
+            # The following additional scopes may be required:
+                # - read:org      (for organization related metrics)
+                # - read:user     (for user related data)
+                # - read:packages (for some packages related data)
+                # - repo          (optional, if you want to include private repositories)
           user: JonVojtush
           base: ""
+          template: terminal
+          config_display: large #regular columns
+          config_octicon: yes
           config_timezone: America/New_York
           plugin_languages: yes
-          plugin_languages_details: percentage
+          plugin_languages_details: bytes-size
+          plugin_languages_limit: 10
           plugin_languages_other: yes
-          plugin_languages_skipped: JonVojtush, Resources
-          #plugin_lines: yes
-          #plugin_lines_delay: 30
-          #plugin_lines_history_limit: 10
-          #plugin_lines_skipped: JonVojtush, Resources
+          #base_hireable: yes
