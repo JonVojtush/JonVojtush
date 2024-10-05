@@ -1,20 +1,18 @@
-Platforms | Frameworks | Tools
-:-: | :-: | :-:
-[![My Skills](https://skillicons.dev/icons?i=linux,windows,raspberrypi,gcp&perline=3)](https://github.com/JonVojtush) <!-- azure --> | [![My Skills](https://skillicons.dev/icons?i=wordpress,bootstrap&perline=3)](https://github.com/JonVojtush) <!-- react nextjs graphql jquery pytorch tensorflow --> | [![My Skills](https://skillicons.dev/icons?i=cloudflare,githubactions,vscode&perline=3)](https://github.com/JonVojtush) <!-- git nodejs postman docker nginx -->
-
+## SKILLS &nbsp; &nbsp; [![My Skills](https://skillicons.dev/icons?i=linux,windows,gcp)](https://github.com/JonVojtush) <!-- azure -->
 ![Metrics](/github-metrics.svg)  
-[![My Skills](https://skillicons.dev/icons?i=postgres&perline=9)](https://github.com/JonVojtush) <!-- ts less regex mysql php sqlite -->
+[![My Skills](https://skillicons.dev/icons?i=wordpress,bootstrap,postgres&perline=9)](https://github.com/JonVojtush) <!--  mysql sqlite regex react nextjs graphql pytorch tensorflow git nodejs postman docker nginx php -->
+
+&nbsp;
+
+## REPOSITORY LISTS
+  - ✅ [I use & recommend](https://github.com/stars/JonVojtush/lists/software-i-use)
+  - 💡 [I'm interested in trying](https://github.com/stars/JonVojtush/lists/interested-in)
+  - 🗂️ [I've tried & may revisit](https://github.com/stars/JonVojtush/lists/archives)
+  - 🧾 [Curated lists & cheatsheets](https://github.com/stars/JonVojtush/lists/lists-cheat-sheets)
 
 <!--## Training Profiles
 * __[HackerRank](https://hackerrank.com/profile/jonathanvojtush)__
 * __[Codewars](https://codewars.com/users/JonathanVojtush)__-->
-
-## Repository Lists
-  - ✅ [Programs](https://github.com/stars/JonVojtush/lists/programs-i-use) that I use & recommend
-  - ✅ [Resources](https://github.com/stars/JonVojtush/lists/software-extensions-i-use) that I use & recommend
-  - 💡 [I'm interested in trying](https://github.com/stars/JonVojtush/lists/interested-in)
-  - 🗂️ [I've tried & may revisit](https://github.com/stars/JonVojtush/lists/archives)
-  - 🧾 [Curated lists & cheatsheets](https://github.com/stars/JonVojtush/lists/lists-cheat-sheets)
 
 <!-- 
   TODO: https://docs.github.com/en/actions/monitoring-and-troubleshooting-workflows/monitoring-workflows/adding-a-workflow-status-badge
