@@ -1,4 +1,4 @@
-## SKILLS &nbsp; &nbsp; <img src="https://skillicons.dev/icons?i=linux,windows,gcp" /> <!-- azure -->
+## SKILLS &nbsp; <img src="https://skillicons.dev/icons?i=linux,windows,gcp" /> <!-- azure -->
 <p align="center">
   <img src="/github-metrics.svg" align="center" />
   <br>
