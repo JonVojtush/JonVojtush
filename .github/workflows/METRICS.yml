@@ -25,7 +25,6 @@ jobs:
                 # - repo          (optional, if you want to include private repositories)
           user: JonVojtush
           base: ""
-          config_display: columns
           config_octicon: yes
           config_timezone: America/New_York
           plugin_languages: yes
