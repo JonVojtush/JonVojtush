@@ -1,5 +1,5 @@
 ## SKILLS &nbsp; <img src="https://skillicons.dev/icons?i=linux,windows,gcp" /> <!-- azure -->
-| <img src="/github-metrics.svg" align="center" /><br><img src="https://skillicons.dev/icons?i=wordpress,bootstrap,postgres&perline=9" /> <!--  mysql sqlite regex react nextjs graphql pytorch tensorflow git nodejs postman docker nginx php -->  | 
+| <img src="/github-metrics.svg" align="center" /><br><img src="https://skillicons.dev/icons?i=wordpress,bootstrap,postgres,wasm&perline=9" /> <!-- sqlite regex react nextjs graphql pytorch tensorflow git nodejs postman docker nginx -->  | 
 | :-: |
 
 &nbsp;
