@@ -3,7 +3,7 @@
 | :-: |
 
 ### REPOSITORIES
-&nbsp; ✅ that I [**use & recommend**](https://github.com/stars/JonVojtush/lists/software-i-use).
+&nbsp; ✅ that I [**use & recommend**](https://github.com/stars/JonVojtush/lists/software-i-use).  
 &nbsp; 💡 that I'm [**interested in trying**](https://github.com/stars/JonVojtush/lists/interested-in).  
 &nbsp; 🗂️ that I've [**tried & may revisit**](https://github.com/stars/JonVojtush/lists/archives).  
 &nbsp; 🧾 in [**curated lists & cheatsheets**](https://github.com/stars/JonVojtush/lists/lists-cheat-sheets).  
